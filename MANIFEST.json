@@ -1,0 +1,34 @@
+{
+ "collection_info": {
+  "description": "Collection comprising capabilities to send comments to a problem ticket and send custom deployment information.", 
+  "repository": "https://github.com/dynatrace-innovationlab/ansible-collection", 
+  "tags": [
+   "dynatrace", 
+   "monitoring", 
+   "deployment"
+  ], 
+  "dependencies": {}, 
+  "authors": [
+   "Juergen Etzlstorfer <juergen.etzlstorfer@dyntrace.com>"
+  ], 
+  "issues": "https://github.com/dynatrace-innovationlab/ansible-collection", 
+  "name": "dynatrace_collection", 
+  "license": [
+   "Apache-2.0"
+  ], 
+  "documentation": "https://github.com/dynatrace-innovationlab/ansible-collection", 
+  "namespace": "dynatrace_innovationlab", 
+  "version": "1.0.6", 
+  "readme": "README.md", 
+  "license_file": null, 
+  "homepage": "https://www.dynatrace.com"
+ }, 
+ "file_manifest_file": {
+  "format": 1, 
+  "ftype": "file", 
+  "chksum_sha256": "e613a14d3390ef7a065e65e27e5af49f0ec1de37b1c184a2b6be369a5b534de7", 
+  "name": "FILES.json", 
+  "chksum_type": "sha256"
+ }, 
+ "format": 1
+}

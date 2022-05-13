@@ -1,0 +1,327 @@
+{
+ "files": [
+  {
+   "format": 1, 
+   "ftype": "dir", 
+   "chksum_sha256": null, 
+   "name": ".", 
+   "chksum_type": null
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "02eaeef6104ec87fe1aa2d4912ae9992e0dac3af2317f984f0ad68f79c4ae503", 
+   "name": ".DS_Store", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "b7539ac9490c5968057464a9b670067e80a6f8797d8e7c588ed3a63c5f817abb", 
+   "name": "LICENSE", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "73d9dc9c888c2f2939e44ca779c2e99ecfc66e1a6709a8c4f2b6488f7b41b8ae", 
+   "name": "README.md", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "dir", 
+   "chksum_sha256": null, 
+   "name": "assets", 
+   "chksum_type": null, 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "854cc8a848beb21ba8927ebc02a59b079a0e79c17c7348691d2c8a2dcbf2f5cd", 
+   "name": "assets/custom-deployment.png", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "d07cfdac48dd75fd0a1b0bd96383553d1d7d87a77841dbb9878c437023b4d0ef", 
+   "name": "assets/comment.png", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "dir", 
+   "chksum_sha256": null, 
+   "name": "roles", 
+   "chksum_type": null, 
+   "format": 1
+  }, 
+  {
+   "ftype": "dir", 
+   "chksum_sha256": null, 
+   "name": "roles/dynatrace_problem_comment", 
+   "chksum_type": null, 
+   "format": 1
+  }, 
+  {
+   "ftype": "dir", 
+   "chksum_sha256": null, 
+   "name": "roles/dynatrace_problem_comment/defaults", 
+   "chksum_type": null, 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "2999d4fd79e24d41d32f38e999683da73f8692f01c65549b8b956915b04b2168", 
+   "name": "roles/dynatrace_problem_comment/defaults/main.yml", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "dir", 
+   "chksum_sha256": null, 
+   "name": "roles/dynatrace_problem_comment/vars", 
+   "chksum_type": null, 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "3a9b8e91970dac958f13db63856eca723e4d9103afe95dd278b4a51d12bb6a7b", 
+   "name": "roles/dynatrace_problem_comment/vars/main.yml", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "dir", 
+   "chksum_sha256": null, 
+   "name": "roles/dynatrace_problem_comment/tests", 
+   "chksum_type": null, 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "e02233819b1a09844410549191813f7cc7ba360f21298578f4ba1727a27d87fc", 
+   "name": "roles/dynatrace_problem_comment/tests/inventory", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "e2c3635292022b0ea674725b87ee581ebabb938f553d2dce81a69b0006dced8b", 
+   "name": "roles/dynatrace_problem_comment/tests/test.yml", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "b7539ac9490c5968057464a9b670067e80a6f8797d8e7c588ed3a63c5f817abb", 
+   "name": "roles/dynatrace_problem_comment/LICENSE", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "6cca313091ccb5ec4644c6a49782053e1b77e57f92268b2c2977030b889abf09", 
+   "name": "roles/dynatrace_problem_comment/README.md", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "dir", 
+   "chksum_sha256": null, 
+   "name": "roles/dynatrace_problem_comment/tasks", 
+   "chksum_type": null, 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "102e9546410462c60c777ee57922167c4ce9d228651dd130cd63d8830046dfa2", 
+   "name": "roles/dynatrace_problem_comment/tasks/main.yml", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "dir", 
+   "chksum_sha256": null, 
+   "name": "roles/dynatrace_problem_comment/handlers", 
+   "chksum_type": null, 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "d1acab31572f2e89b1cbf4d4e8cfa8e8e6d2a7b4f9484abd0bfc7c94f1a7e54c", 
+   "name": "roles/dynatrace_problem_comment/handlers/main.yml", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "dir", 
+   "chksum_sha256": null, 
+   "name": "roles/dynatrace_problem_comment/meta", 
+   "chksum_type": null, 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "5c6321b9de959f22499f891bf06de2b42635e9781a4349ffdfe1573c7eb843c2", 
+   "name": "roles/dynatrace_problem_comment/meta/main.yml", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "dir", 
+   "chksum_sha256": null, 
+   "name": "roles/dynatrace_custom_deployment", 
+   "chksum_type": null, 
+   "format": 1
+  }, 
+  {
+   "ftype": "dir", 
+   "chksum_sha256": null, 
+   "name": "roles/dynatrace_custom_deployment/defaults", 
+   "chksum_type": null, 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "e70fb4d18d50e75f7fb7802b15029b010a49591326310d605be07f1b7ab6ce0a", 
+   "name": "roles/dynatrace_custom_deployment/defaults/main.yml", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "dir", 
+   "chksum_sha256": null, 
+   "name": "roles/dynatrace_custom_deployment/vars", 
+   "chksum_type": null, 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "1f4e927f5e1a405e9964a97d8ec91ce1c38d94b5a7d4434227bfe8cc6894b70c", 
+   "name": "roles/dynatrace_custom_deployment/vars/main.yml", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3", 
+   "name": "roles/dynatrace_custom_deployment/.DS_Store", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "dir", 
+   "chksum_sha256": null, 
+   "name": "roles/dynatrace_custom_deployment/tests", 
+   "chksum_type": null, 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "e02233819b1a09844410549191813f7cc7ba360f21298578f4ba1727a27d87fc", 
+   "name": "roles/dynatrace_custom_deployment/tests/inventory", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "b41afbc80bc947ced6c69edcdec9e25229149ba54168ada32a46754fd7c70517", 
+   "name": "roles/dynatrace_custom_deployment/tests/test.yml", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "b7539ac9490c5968057464a9b670067e80a6f8797d8e7c588ed3a63c5f817abb", 
+   "name": "roles/dynatrace_custom_deployment/LICENSE", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "f995ff43b782a6e9d1cdaa56b39c9b40dd9da29ad538ee971f4b5710ebe35f99", 
+   "name": "roles/dynatrace_custom_deployment/README.md", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "dir", 
+   "chksum_sha256": null, 
+   "name": "roles/dynatrace_custom_deployment/tasks", 
+   "chksum_type": null, 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "2e5f87a8097e0667ae983f2a7e1f8b841fa949101d0234be45b9aa2442dad3e9", 
+   "name": "roles/dynatrace_custom_deployment/tasks/main.yml", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "dir", 
+   "chksum_sha256": null, 
+   "name": "roles/dynatrace_custom_deployment/handlers", 
+   "chksum_type": null, 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "135f67f5e66eb4e26923af496207a043beca7c79909baf18d6a26d7e6baa8b6e", 
+   "name": "roles/dynatrace_custom_deployment/handlers/main.yml", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "dir", 
+   "chksum_sha256": null, 
+   "name": "roles/dynatrace_custom_deployment/meta", 
+   "chksum_type": null, 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "cbdfde217680b0a3241c46dc4a6474ff7ceab8788a6b896a3153be4a012b340f", 
+   "name": "roles/dynatrace_custom_deployment/meta/main.yml", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "dir", 
+   "chksum_sha256": null, 
+   "name": "plugins", 
+   "chksum_type": null, 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "5be7ec7b71096d56e1cc48311b6a2266b77b5fdb9d1985b5bc625787b1e857c5", 
+   "name": "plugins/README.md", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "dir", 
+   "chksum_sha256": null, 
+   "name": "plugins/modules", 
+   "chksum_type": null, 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "b1d5fbd04a2b9cb688ace3b93d132e88546259032b39414f276e31f4d3c7f97c", 
+   "name": "plugins/modules/dynatrace_comment.py", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }, 
+  {
+   "ftype": "file", 
+   "chksum_sha256": "46b84948cfa495e5c7d547b637fa76655818166924b0deed337ef923cdab72b4", 
+   "name": "plugins/modules/dynatrace_deployment.py", 
+   "chksum_type": "sha256", 
+   "format": 1
+  }
+ ], 
+ "format": 1
+}
